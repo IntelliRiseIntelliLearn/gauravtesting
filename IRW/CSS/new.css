@@ -1,0 +1,14 @@
+﻿/* ----------- iPhone 4 and 4S ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) { 
+    .logo {
+    height: 80px;
+    width: 80px;
+    margin-left: -19px;
+    margin-bottom: -60px;
+    margin-top: -16px;
+}
+
+
+}

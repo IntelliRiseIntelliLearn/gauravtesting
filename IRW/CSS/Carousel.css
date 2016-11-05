@@ -1,0 +1,44 @@
+﻿/*CONATINER-WORK*/
+#Carousel-work .nav a small {
+    display:block;
+}
+#Carousel-work .nav {
+	background:#eee;
+}
+#Carousel-work .nav a {
+    border-radius:0px;
+}
+/*Top-Images*/
+#carousel {
+  position: relative;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#slides {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 250px;
+}
+
+#slides ul {
+  list-style: none;
+  width: 100%;
+  height: 250px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#slides li {
+  width: 100%;
+  height: 250px;
+  float: left;
+  text-align: center;
+  position: relative;
+  font-family: lato, sans-serif;
+}
+
+
+/*logo Carousel*/
